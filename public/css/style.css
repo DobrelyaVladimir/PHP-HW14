@@ -1,0 +1,18 @@
+.container {
+    max-width: 1000px;
+    margin: auto;
+}
+form {
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+input {
+    width: 400px;
+    margin-bottom: 15px;
+}
+button {
+    width: 400px;
+}
